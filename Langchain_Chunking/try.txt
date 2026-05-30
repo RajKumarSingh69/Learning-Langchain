@@ -1,0 +1,4 @@
+LangChain is a framework for developing applications powered by language models.
+It provides modules like Models, Prompts, Chains, Memory, Agents, and more.
+These tools make it easier to build advanced applications such as chatbots,
+question answering systems, and RAG pipelines
